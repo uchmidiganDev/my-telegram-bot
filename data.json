@@ -1,0 +1,33 @@
+{
+    "admin_ids": [
+        8172404961
+    ],
+    "user_profiles": {
+        "8172404961": {
+            "username": "tommysamiyyusuf",
+            "balance": 1000,
+            "points": 0,
+            "roses": 0,
+            "donation": 0,
+            "games_played": 0,
+            "games_won": 0
+        },
+        "5849595380": {
+            "username": "safiya_xosiyat",
+            "balance": 850,
+            "points": 0,
+            "roses": 0,
+            "donation": 0,
+            "games_played": 0,
+            "games_won": 0
+        }
+    },
+    "chat_list": {},
+    "subscribers": [
+        5849595380
+    ],
+    "bonus_settings": {
+        "villager": 10,
+        "mafia": 10
+    }
+}
